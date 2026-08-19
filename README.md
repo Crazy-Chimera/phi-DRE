@@ -8,7 +8,7 @@ Dynamic Refractive Energy (DRE) is a conceptual framework inspired by the Theory
 - Bio-inspired implant power harvesting
 - Space propulsion amplification concepts
 
-> ⚠️ **Disclaimer:** This repository contains speculative and fictional physics-inspired models for exploration and software simulation. It is **not** validated physical theory or engineering guidance.
+
 
 ## Core Ideas
 
