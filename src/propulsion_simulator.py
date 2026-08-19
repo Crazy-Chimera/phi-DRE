@@ -69,7 +69,7 @@ class PropulsionSimulator:
         self.vehicle.y = np.clip(self.vehicle.y, 2, self.grid_size - 3)
         self.time += dt
 
-    def run(self, throttle: float, duration: float = 10.0) -> Dict[str, object]:
+    def run(self, throttle: float, duration: float = 10.0):
         steps = int(duration / 0.001)
         self.vehicle.throttle = throttle
         for _ in range(steps):
